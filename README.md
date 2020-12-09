@@ -5,7 +5,7 @@
 [![codebeat badge](https://codebeat.co/badges/d465de5a-345f-4fe8-9f23-ad089691d78d)](https://codebeat.co/projects/github-com-thuhole-thuhole-go-backend-master)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthuhole%2Fthuhole-go-backend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthuhole%2Fthuhole-go-backend?ref=badge_shield)
 
-[T大树洞](https://thuhole.com/) 的Golang后端。
+未名树洞的Golang后端。
 
 ## 安装方式
 ```bash
