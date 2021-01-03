@@ -37,7 +37,7 @@ func initLimiters() {
 		Limit:  100,
 	}, "postLimiter2")
 	commentLimiter = db.InitLimiter(limiter.Rate{
-		Period: 10 * time.Second,
+		Period: 3 * time.Second,
 		Limit:  1,
 	}, "commentLimiter")
 	commentLimiter2 = db.InitLimiter(limiter.Rate{
